@@ -25,3 +25,17 @@
 
 - Use your browser's print feature for a high-quality PDF or paper copy.
 - Colors and layout are optimized for printing.
+
+## 📁 File Structure
+
+```
+├── index.html
+├── style.css
+├── Sujan_CV.pdf
+└── README.md
+```
+
+- [`index.html`](index.html) - Main resume content
+- [`style.css`](style.css) - Styling for the resume
+- [`Sujan_CV.pdf`](Sujan_CV.pdf) - Pre-generated PDF
+- [`README.md`](README.md) - Documentation
