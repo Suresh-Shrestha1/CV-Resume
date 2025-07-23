@@ -49,3 +49,13 @@
 ## 📬 Feedback & Contributions
 
 Feel free to open issues or submit pull requests if you have suggestions or improvements!
+
+## 📝 License
+
+This project is for personal use and demonstration purposes only. All information in the sample resume is fictional.
+
+
+# 👤 Author
+
+Suresh Shrestha
+---
