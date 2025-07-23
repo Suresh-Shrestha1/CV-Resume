@@ -236,7 +236,7 @@
     margin-bottom: 0.36rem;
   }
 
-  /* Certification section two columns */
+  /* Certification section two columns and also add more columns */
   .certifications {
     display: flex;
     gap: 2rem;
