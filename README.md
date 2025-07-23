@@ -39,3 +39,13 @@
 - [`style.css`](style.css) - Styling for the resume
 - [`Sujan_CV.pdf`](Sujan_CV.pdf) - Pre-generated PDF
 - [`README.md`](README.md) - Documentation
+
+## 🙋‍♂️ Customization Tips
+
+- Change the profile picture by updating the `src` attribute in the `<img>` tag in `index.html`.
+- Add or remove sections as needed to fit your background.
+- Adjust colors and fonts in `style.css` to match your personal branding.
+
+## 📬 Feedback & Contributions
+
+Feel free to open issues or submit pull requests if you have suggestions or improvements!
